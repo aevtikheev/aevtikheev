@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋 Nice to see you!
 
-<!--
-**aevtikheev/aevtikheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrey, software engineer from Moscow, Russia.
 
-Here are some ideas to get you started:
+- Previously worked as a lead QA automation engineer for [Infowatch](https://infowatch.com) and as a senior SDET for [Align](https://www.aligntech.com).
+- Interested in QA, backend development and software engineering in general.
+- Learning ML as a hobby.
+- Also enjoy fitness, [powerlifting](https://en.allpowerlifting.com/lifters/RUS/evtikheev-andrey-94644/) and tabletop games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some tools I use
+
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-%2300BAFF.svg?&style=for-the-badge&logo=python&logoColor=white)
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-grey?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)
+![selenium](https://img.shields.io/badge/selenium-%23F05033.svg?style=for-the-badge&logo=selenium&logoColor=white)
+
+## Connect with me
+
+[![@aevtikheev](https://img.shields.io/badge/aevtikheev%20-9cf?&style=for-the-badge&logo=telegram)](https://t.me/aevtikheev)
+[![eft000@gmail.com](https://img.shields.io/badge/eft000@gmail.com%20-grey?&style=for-the-badge&logo=gmail)](mailto:eft000@gmail.com)
