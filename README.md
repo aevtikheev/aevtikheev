@@ -2,8 +2,8 @@
 
 I'm Andrey, software engineer from Moscow, Russia.
 
-- Previously worked as a lead QA automation engineer for [Infowatch](https://infowatch.com) and as a senior SDET for [Align](https://www.aligntech.com).
-- Interested in QA, backend development and software engineering in general.
+- QA Engineer at DINS.
+- Interested in big data, backend development and software engineering in general.
 - Learning ML as a hobby.
 - Also enjoy fitness, [powerlifting](https://en.allpowerlifting.com/lifters/RUS/evtikheev-andrey-94644/) and tabletop games.
 
